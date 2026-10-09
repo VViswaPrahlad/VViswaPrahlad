@@ -62,6 +62,8 @@ A full-stack automotive telemetry analytics and ML platform built on real vehicl
 - Trained a next-minute speed forecasting model with **22.55% lower pooled test MAE** than the last-observed-speed baseline.
 - Built versioned REST APIs and validated local model inference.
 
+**🌐 [Try FleetPulse Live](https://fleetpulse-dashboard.onrender.com)** · **[Source Code](https://github.com/VViswaPrahlad/FleetPulse)**
+
 ### 📄 [DocQuery — Multi-Document RAG Application](https://github.com/VViswaPrahlad/DocQuery)
 
 An AI-powered document question-answering application with transparent retrieval and page-level citations.
